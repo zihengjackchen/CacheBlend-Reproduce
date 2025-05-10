@@ -1,0 +1,371 @@
+Sample,select_imp_2nd_token,select_imp_3rd_layer,select_imp_4_20_layer,select_imp_8_24_layer,select_imp_12_28_layer,select_imp_16_32_layer,select_imp_from_k,select_imp_from_v_baseline,select_imp_no_selection
+output_sample_1,"output_text:  Carnegie Mellon University.
+ttft_avg: 0.083
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Graduated from West Berlin.
+ttft_avg: 0.157
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Carnegie Mellon University
+ttft_avg: 0.076
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Carnegie Mellon University
+ttft_avg: 0.074
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Carnegie Mellon University
+ttft_avg: 0.069
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Graduated from Carnegie Mellon.
+ttft_avg: 0.081
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Carnegie Mellon University.
+ttft_avg: 0.074
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Carnegie Mellon University.
+ttft_avg: 0.074
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Graduated from Carnegie Mellon.
+ttft_avg: 0.047
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_2,"output_text:  The Soviet Story was made later.
+ttft_avg: 0.070
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Hell Up In Harlem. (Lee Thompson
+ttft_avg: 0.144
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  The Soviet Story was made first.
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Hell Up In Harlem (1973
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Hell Up In Harlem (older)
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Hell Up In Harlem (older)
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  The Soviet Story was made first.
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  The Soviet Story was made first.
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  The Soviet Story was made first.
+ttft_avg: 0.028
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_3,"output_text:  Cipriano Castro was born first.
+ttft_avg: 0.069
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro was born first.
+ttft_avg: 0.144
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro born before Damir
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro born before Damir
+ttft_avg: 0.064
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro born before Damir
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro born before Nikš
+ttft_avg: 0.065
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro was born before Dam
+ttft_avg: 0.064
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro was born first.
+ttft_avg: 0.064
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Cipriano Castro born before Nikš
+ttft_avg: 0.028
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_4,"output_text:  ""Jugband Blues"" came out first.
+ttft_avg: 0.074
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Jugband Blues came first.
+ttft_avg: 0.157
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Joel The Lump Of Coal came out first.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Jugband Blues came out first.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Jugband Blues came first.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Jugband Blues came first.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Jugband Blues came out first.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Jugband Blues came out first.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Jugband Blues came first.
+ttft_avg: 0.030
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_5,"output_text:  Bulacan, Philippines.
+ttft_avg: 0.073
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Ducal house of Bourbon.
+ttft_avg: 0.152
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Bulacan, Philippines.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Bulacan province.
+ttft_avg: 0.067
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Unknown, mentioned as ""village""
+ttft_avg: 0.067
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Unknown, mentioned as ""village""
+ttft_avg: 0.067
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Bulacan, Philippines
+ttft_avg: 0.067
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Bulacan, Philippines.
+ttft_avg: 0.067
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Unknown, mentioned as ""a village in bul
+ttft_avg: 0.030
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_6,"output_text:  Arthur Acheson, 1st Earl of
+ttft_avg: 0.073
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  King Robert II of Scotland.
+ttft_avg: 0.156
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  King Robert II of Scotland
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Archibald Acheson, 2nd
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Archibald Acheson, 2nd
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Archibald Acheson, 2nd
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  King Robert II of Scotland.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Arthur Acheson, 1st Earl of
+ttft_avg: 0.067
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Archibald Acheson, 2nd
+ttft_avg: 0.030
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_7,"output_text:  Goring-on-Thames.
+ttft_avg: 0.074
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Goring-on-Thames, Oxfordshire
+ttft_avg: 0.159
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Goring-on-Thames, Oxfordshire
+ttft_avg: 0.069
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Goring-on-Thames, Oxfordshire
+ttft_avg: 0.069
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Goring-on-Thames, Oxfordshire
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  In Goring-on-Thames.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Goring-on-Thames, Oxfordshire
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Goring-on-Thames.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  In Goring-on-Thames.
+ttft_avg: 0.030
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_8,"output_text:  Yes, both are French directors.
+ttft_avg: 0.074
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Yes, both are French.
+ttft_avg: 0.159
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Both French.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Both French.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Both directors are French.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Both directors are French.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Yes, both are French.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Yes, both are French.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Both directors are French.
+ttft_avg: 0.030
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_9,"output_text:  Wooden Crosses (1932)
+ttft_avg: 0.071
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Wooden Crosses (1932)
+ttft_avg: 0.148
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Wooden Crosses (1932)
+ttft_avg: 0.066
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Wooden Crosses was first released.
+ttft_avg: 0.066
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Wooden Crosses was made first.
+ttft_avg: 0.066
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Wooden Crosses (1960)
+ttft_avg: 0.066
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Fernando Ayala (The Abduction Club)
+ttft_avg: 0.066
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Wooden Crosses (1932)
+ttft_avg: 0.066
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Wooden Crosses (older)
+ttft_avg: 0.029
+output_consistent: True
+imp_indices_consistent: True
+"
+output_sample_10,"output_text:  Above Rubies came out earlier.
+ttft_avg: 0.074
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.160
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.068
+output_consistent: True
+imp_indices_consistent: True
+","output_text:  Above Rubies came out earlier.
+ttft_avg: 0.030
+output_consistent: True
+imp_indices_consistent: True
+"

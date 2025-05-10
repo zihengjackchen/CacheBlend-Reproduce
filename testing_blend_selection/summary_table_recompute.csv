@@ -1,0 +1,41 @@
+Sample,select_full_recompute
+output_sample_1,"output_text:  Carnegie Mellon University.
+ttft_avg: 0.263
+output_consistent: True
+"
+output_sample_2,"output_text:  The Soviet Story (older)
+ttft_avg: 0.221
+output_consistent: True
+"
+output_sample_3,"output_text:  Cipriano Castro was born first.
+ttft_avg: 0.220
+output_consistent: True
+"
+output_sample_4,"output_text:  Jugband Blues came out first.
+ttft_avg: 0.262
+output_consistent: True
+"
+output_sample_5,"output_text:  Bulacan, Philippines.
+ttft_avg: 0.255
+output_consistent: True
+"
+output_sample_6,"output_text:  Arthur Acheson, 1st Earl of
+ttft_avg: 0.256
+output_consistent: True
+"
+output_sample_7,"output_text:  At home in Goring-on-Thames
+ttft_avg: 0.263
+output_consistent: True
+"
+output_sample_8,"output_text:  Yes, both are French.
+ttft_avg: 0.262
+output_consistent: True
+"
+output_sample_9,"output_text:  Wooden Crosses (1932)
+ttft_avg: 0.242
+output_consistent: True
+"
+output_sample_10,"output_text:  Above Rubies came out earlier.
+ttft_avg: 0.263
+output_consistent: True
+"
